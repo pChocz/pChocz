@@ -15,9 +15,20 @@ My name is Piotr and I'm a Java developer working in the optical networking indu
 
 
 ## Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=pChocz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Language split](https://github-readme-stats.vercel.app/api/top-langs/?username=pChocz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pChocz&count_private=true&show_icons=true&hide=contribs" style="height: 100px" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChocz&layout=compact&langs_count=6" style="height: 100px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pChocz&repo=squash-rest-api"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pChocz&repo=squash-angular"/>
+</a>
 
 <!--
 **pChocz/pChocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
