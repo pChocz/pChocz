@@ -1,12 +1,12 @@
 ## Hi there 👋
-My name is Piotr and I'm a Java developer working in the optical networking industry.
+My name is Piotr and I'm a Java developer working on insurance market applications.
 
 
 ## My areas of interest
-- Java 8-14
+- Java 8-17
 - Spring Boot
-- Hibernate
-- Angular 9
+- Hibernate, MyBatis
+- Angular 9-13
 
 
 ## Contact
